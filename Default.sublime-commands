@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "Coverage: Generate Coverage For Current File",
+    "command": "cv_coverage_current_file",
+  },
+  {
+    "caption": "Coverage: Generate Coverage For Open Files",
+    "command": "cv_coverage_open_files",
+  },
+]

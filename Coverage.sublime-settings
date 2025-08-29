@@ -1,0 +1,9 @@
+{
+  // Settings:
+  // The default chromium directory
+  "chromium_checkout": "/chromium/src",
+  "chromium_build_dir": "Release",
+  "coverage_script_dir": "/chromium/custom-tooling/git-scripts",
+  "depot_tools_dir": "/usr/local/google/home/tmathmeyer/Git/depot_tools",
+
+}
