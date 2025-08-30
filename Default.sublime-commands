@@ -7,4 +7,12 @@
     "caption": "Coverage: Generate Coverage For Open Files",
     "command": "cv_coverage_open_files",
   },
+  {
+    "caption": "Coverage: Render coverage for Current File (Generate First!)",
+    "command": "cv_coverage_render_current_file"
+  },
+  {
+    "caption": "Coverage: Render coverage for Open Files (Generate First!)",
+    "command": "cv_coverage_render_open_files"
+  }
 ]
